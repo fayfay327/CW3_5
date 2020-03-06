@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <h1>Welcome to our online class on March 5th, 2020 </h1>
+  <link rel="stylesheet" href="HWcss1.css">
+
+</head>
+<body>
+  <p class ="class1"> Web Designing for Non-proft Organisation </p>
+  <p class="class1"> info </p>
+ 
+  <ol> Today in class we 
+    <li> Logged into Github & created a repository. 
+    <li> Partially prepared for our midterm exam.
+    <li> Successfully completed the online class for March 5th!
+  </ol>
+
+</body>
+</html>
